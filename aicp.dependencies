@@ -6,7 +6,7 @@
   },
   {
    "repository":  "CyanogenMod/android_kernel_motorola_titan",
-   "target_path": "kernel/motorola/msm8226",
+   "target_path": "kernel/motorola/titan",
    "branch":      "cm-12.0"
   },
   {
