@@ -1,8 +1,8 @@
 [
   {
-    "repository": "CyanogenMod/android_device_motorola_msm8226-common",
+    "repository": "AICP/device_motorola_msm8226-common",
     "target_path": "device/motorola/msm8226-common",
-    "branch":      "cm-12.1"
+    "branch":      "lp5.1"
   },
   {
    "repository":  "CyanogenMod/android_kernel_motorola_msm8226",
