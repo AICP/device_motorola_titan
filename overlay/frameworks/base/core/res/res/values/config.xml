@@ -46,4 +46,13 @@
          turned off and the screen off animation has been performed. -->
     <bool name="config_dozeAfterScreenOff">true</bool>
 
+    <!-- Specifies whether the dreams feature should be supported -->
+    <bool name="config_dreamsSupported">true</bool>
+
+    <!-- If supported, are dreams enabled? (by default) -->
+    <bool name="config_dreamsEnabledByDefault">true</bool>
+
+    <!-- Doze: force using accelerometer as pick up sensor -->
+    <bool name="config_dozeUseAccelerometer">true</bool>
+
 </resources>
