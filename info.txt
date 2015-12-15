@@ -1,0 +1,1 @@
+aicp device trees for titan(Moto G 2nd gen).
